@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lavoymovie/static/css/main.0a48a2ea.css",
+    "main.js": "/lavoymovie/static/js/main.1145e5ae.js",
+    "index.html": "/lavoymovie/index.html",
+    "static/media/search.svg": "/lavoymovie/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.0a48a2ea.css.map": "/lavoymovie/static/css/main.0a48a2ea.css.map",
+    "main.1145e5ae.js.map": "/lavoymovie/static/js/main.1145e5ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a48a2ea.css",
+    "static/js/main.1145e5ae.js"
+  ]
+}
